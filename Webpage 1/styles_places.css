@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.figcap
+{
+    align-items: center;
+    
+}
+
+h1
+{
+    color: #546e6e;
+ 
+}
+h2
+{
+    color: #67a1a3;
+}
+li
+{
+    color:#9ebbcd;
+}
+.buttons
+{
+    color: #67a1a3;
+}
+
+
+
+
+.img:hover{
+    color: #424242; 
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.30);
+  -ms-transform: scale(1.30); /* IE 9 */
+  -webkit-transform: scale(1.30); /* Safari and Chrome */
+
+}
